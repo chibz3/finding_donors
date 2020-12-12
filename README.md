@@ -1,2 +1,2 @@
-# finding_donors
-Using census data to filter potential donors
+# finding_donors project
+Using census data to filter potential donors 
